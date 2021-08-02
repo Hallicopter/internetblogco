@@ -18,3 +18,6 @@ Or if you like it dark
 
 ![image](https://user-images.githubusercontent.com/22823026/127829733-56ed01fd-4166-41cb-888d-f82e00d5a188.png)
 
+## Feature requests
+
+If you have any feature requests or issues, open them in this repo, and I shall address them!
